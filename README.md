@@ -1,6 +1,6 @@
 # Generator_Crypto_Brave
 <h2>English</h2>
-This is a personal project I made to test my knowledge in the c++ language
+Exploiting vulnerability in Brave Browser to generate cryptocurrency
 
 <img src = "https://user-images.githubusercontent.com/116834722/216323834-17470611-d2d2-4a18-a3c6-27bd161067cd.png"/><br/>
 
@@ -21,7 +21,7 @@ This is a personal project I made to test my knowledge in the c++ language
 <hr>
 
 <h2>Portugues</h2>
-Este é um projeto pessoal que fiz para testar meus conhecimentos na linguagem c++
+Explorando a vulnerabilidade no navegador Brave para gerar criptomoeda
 
 <img src = "https://user-images.githubusercontent.com/116834722/216323834-17470611-d2d2-4a18-a3c6-27bd161067cd.png"/><br/>
 
